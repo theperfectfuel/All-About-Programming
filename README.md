@@ -27,33 +27,33 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - Ruby on Rails
 
     - [ ] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
-    - [x] [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+    - [ ] [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 
 - Database + Application Design
 
   - MongoDB
 
-    - [x] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
+    - [ ] [TheNewBoston - MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
 
 - JavaScript
 
-  - [x] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
-  - [x] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
+  - [ ] [WatchAndCode - Practical JavaScript](https://watchandcode.com/courses/practical-javascript)
+  - [ ] [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
   - [ ] [Mastering Javascript Unit Testing](http://codeutopia.net/h/mastering-javascript-unit-testing/)
-  - [x] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
+  - [ ] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
   - [ ] [Pluralsight - Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
-  - [x] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-  - [x] [LearnCode.academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
-  - [x] [LearnCode.academy - Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
-  - [x] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html) - [My Certificate](https://www.lynda.com/ViewCertificate/5D546F92CCFB4E2C905D961E2F4B73A3?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
-  - [x] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html) - [My Certificate](https://www.lynda.com/ViewCertificate/D3147FED54154F56B5F7ECBCEEC6A399?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
-  - [x] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
-  - [x] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
-  - [x] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
+  - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+  - [ ] [LearnCode.academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+  - [ ] [LearnCode.academy - Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
+  - [ ] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html) - [My Certificate](https://www.lynda.com/ViewCertificate/5D546F92CCFB4E2C905D961E2F4B73A3?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
+  - [ ] [Lynda - JavaScript and JSON](https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html) - [My Certificate](https://www.lynda.com/ViewCertificate/D3147FED54154F56B5F7ECBCEEC6A399?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
+  - [ ] [TheNewBoston - ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
+  - [ ] [EggHead - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
+  - [ ] [HipsterCode - Advanced JavaScript](https://www.hipstercode.com/tutorial/31/)
   - [ ] [Learn to code with JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript)
   - [ ] [Pluralsight - Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
-  - [x] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
-  - [x] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) 
+  - [ ] [Create An HTML5 Video Player From Scratch](https://www.udemy.com/html5-video-player) - [My Certificate](https://www.udemy.com/certificate/UC-7R8A2RNR/)
+  - [ ] [Udacity - JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) 
 
   - Angular 1
 
@@ -61,11 +61,11 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   - Node.JS
 
-    - [x] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content) - [My Certificate](https://www.udemy.com/certificate/UC-DO7ILRJW/)
-    - [x] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
-    - [x] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
-    - [x] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
-    - [x] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
+    - [ ] [Udemy - MongooseJs Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/content) - [My Certificate](https://www.udemy.com/certificate/UC-DO7ILRJW/)
+    - [ ] [Pluralsight - RESTful Web Services with Node.js and Express](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
+    - [ ] [NodeJS : Qu'est ce que NodeJS ?](https://www.youtube.com/watch?v=0PA69L88HeI) [French]
+    - [ ] [CodeSchool - Soup To Bits Node](https://www.codeschool.com)
+    - [ ] [Learn Web Scraping with Node.js](https://www.udemy.com/web-scraping-nodejs) - [My Certificate](https://www.udemy.com/certificate/UC-VFM67635/)
     - [ ] [Build an Amazon clone: Nodejs + MongoDB + Stripe Payment](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/)
 
   - React.JS
